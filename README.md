@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Hanzala
 
-<!--
-**hz-tyfoon/hz-tyfoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior WordPress Developer | Core Contributor | Javascript, Gutenberg & Plugin Specialist**
 
-Here are some ideas to get you started:
+- 💻 6+ years building WordPress plugins and custom Gutenberg blocks
+- 🌍 Contributed to WordPress Core (6.1–6.4)
+- 🧩 5+ merged PRs in Gutenberg (refactors, bug fixes, enhancements)
+- 🚀 Experienced with PHP, JavaScript (React, Gutenberg), REST API, MySQL
+- 🤝 Passionate about open source & community contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Featured Work
+- [Dynamic Content Block](#) – Gutenberg block demo with JS filters
+- [Gutenberg Contributions](#) – My merged PRs and contributions to WP
+
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/hanzala-taifun-95a057189/) | [WordPress.org profile](https://profiles.wordpress.org/hztyfoon/)
