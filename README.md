@@ -12,4 +12,4 @@
 - [Dynamic Content Block](#) – Gutenberg block demo with JS filters
 - [Gutenberg Contributions](#) – My merged PRs and contributions to WP
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/hanzala-taifun-95a057189/) | [WordPress.org profile](https://profiles.wordpress.org/hztyfoon/)
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/hz-tyfoon/) | [WordPress.org profile](https://profiles.wordpress.org/hztyfoon/)
